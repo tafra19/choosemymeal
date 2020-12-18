@@ -1,0 +1,154 @@
+.top-title {
+    font-size: 100px;
+    color: white;
+    margin: 10px;
+}
+
+p {
+    line-height: 2.0;
+    font-size: 20px;
+}
+
+h4 {
+    text-decoration: underline;
+    font-size: 27px;
+}
+
+.border-line {
+    border-top: 1px solid gray;
+    clear: both;
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 40px;
+}
+
+ul {
+    line-height: 2.0;
+    font-size: 20px;
+}
+
+.small-title {
+    color: white;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 33px;
+}
+
+.right-div {
+    height: 600px;
+    margin: 100px;
+}
+
+.left-img {
+    height: 600px;
+    margin: 100px;
+    float: left;
+    margin-top: 0px;
+}
+
+.img-style {
+    height: 150px;
+    border-radius: 50%;
+    border: 10px solid #FFFFFF;
+}
+
+.bg {
+    background-image: url('https://i.imgur.com/Ko8HV8F.png');
+    background-size: cover;
+    height: 480px;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 20px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font: italic bold 27px/1 "Playfair Display", serif;
+    font-size: 25px;
+    margin: 6px 3px;
+    cursor: pointer;
+}
+
+    .button:hover {
+        opacity: 0.9;
+    }
+
+.main-text {
+    font-size: 42px;
+}
+
+.button1 {
+    background-color: #ecc27f;
+}
+
+.button0 {
+    background-color: #c9b58b;
+}
+
+.button2 {
+    background-color: #d3a45f;
+}
+
+.button3 {
+    background-color: #bba067;
+}
+
+.button4 {
+    background-color: #99b6a7;
+}
+
+.btn-width {
+    width: 200px;
+}
+
+
+.left-content {
+    width: 40%;
+    /*margin:50px;*/
+    float: left;
+}
+
+.right-content {
+    width: 60%;
+    /*margin:50px;*/
+    float: left;
+}
+
+
+
+.left-content img {
+    width: 100%;
+    display: block;
+}
+
+.space {
+    margin: 10px 60px;
+}
+
+.right-space {
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+.cover-bg {
+ background-size: cover !important;
+    background-position: center center !important;
+    background-repeat: no-repeat;
+    background: url(images/v1.jpg);
+    background-attachment:fixed
+}
+
+.cover-bg-overlay{
+    background: rgb(222 218 218 / 88%);
+}
